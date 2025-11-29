@@ -24,7 +24,7 @@
 <h3 align="center">Other</h3>
 <p align="center">
   <img alt="Django" src="https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=Django&logoColor=white" />
-  <img alt="PostgreSQLL src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 </p>
 
