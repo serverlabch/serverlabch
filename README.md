@@ -1,4 +1,3 @@
-## Hi there 👋
 <h2 align="center">Portfolio</h2>
 
 <h3 align="center">Programming</h3>
