@@ -27,13 +27,13 @@
   <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-00BCEB?style=for-the-badge&logo=Cisco&logoColor=white" />
 </p>
 
-<h3 align="center">Database</h3>
+<h3 align="center">Databases</h3>
 <p align="center">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MariaDB-C0765A?style=for-the-badge&logo=MariaDB&logoColor=white" />
 </p>
 
-<h3 align="center">Other</h3>
+<h3 align="center">Others</h3>
 <p align="center">
   <img alt="Django" src="https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=Django&logoColor=white" />
 </p>
