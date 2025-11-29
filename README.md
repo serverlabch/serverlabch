@@ -13,19 +13,29 @@
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible" />
 </p>
 
-<h3 align="center">Operation systems</h3>
+<h3 align="center">OS</h3>
 <p align="center">
-  <img alt="FreeBSD" src="https://img.shields.io/badge/-FreeBSD-B32629?style=for-the-badge&logo=FreeBSD&logoColor=white" />
-  <img alt="Red Hat" src="https://img.shields.io/badge/-Red Hat-B32629?style=for-the-badge&logo=RedHat&logoColor=white" />
+  <img alt="FreeBSD" src="https://img.shields.io/badge/-FreeBSD-d60202?style=for-the-badge&logo=FreeBSD&logoColor=white" />
+  <img alt="Red Hat" src="https://img.shields.io/badge/-Red Hat-ee0000?style=for-the-badge&logo=RedHat&logoColor=white" />
   <img alt="Rocky Linux" src="https://img.shields.io/badge/-Rocky Linux-10B981?style=for-the-badge&logo=RockyLinux&logoColor=white" />
-  <img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white" /> 
+  <img alt="Debian" src="https://img.shields.io/badge/-Debian-A80030?style=for-the-badge&logo=Debian&logoColor=white" />
+</p>
+
+<h3 align="center">Networks</h3>
+<p align="center">
+  <img alt="Mikrotik" src="https://img.shields.io/badge/-Mikrotik-8B3A49?style=for-the-badge&logo=Mikrotik&logoColor=white" />
+  <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-00BCEB?style=for-the-badge&logo=Cisco&logoColor=white" />
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MariaDB-C0765A?style=for-the-badge&logo=MariaDB&logoColor=white" />
 </p>
 
 <h3 align="center">Other</h3>
 <p align="center">
   <img alt="Django" src="https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=Django&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MariaDB-C0765A?style=for-the-badge&logo=MariaDB&logoColor=white" />
 </p>
 
 <!--
