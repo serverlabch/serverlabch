@@ -1,17 +1,5 @@
 <h2 align="center">Portfolio</h2>
 
-<h3 align="center">Programming</h3>
-<p align="center">
-  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=Bash&logoColor=white" />  
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" />
-</p>
-
-<h3 align="center">Automation</h3>
-<p align="center">
-  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible" />
-</p>
-
 <h3 align="center">OS</h3>
 <p align="center">
   <img alt="FreeBSD" src="https://img.shields.io/badge/-FreeBSD-d60202?style=for-the-badge&logo=FreeBSD&logoColor=white" />
@@ -24,6 +12,18 @@
 <p align="center">
   <img alt="Mikrotik" src="https://img.shields.io/badge/-Mikrotik-8B3A49?style=for-the-badge&logo=Mikrotik&logoColor=white" />
   <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-00BCEB?style=for-the-badge&logo=Cisco&logoColor=white" />
+</p>
+
+<h3 align="center">Automation</h3>
+<p align="center">
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible" />
+</p>
+
+<h3 align="center">Programming</h3>
+<p align="center">
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=Bash&logoColor=white" />  
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" />
 </p>
 
 <h3 align="center">Databases</h3>
